@@ -8,7 +8,7 @@
 2. [Project Objectives](#project-objectives)
 3. [Results](#results)
 4. [Technical Skills Demonstrated](#technical-skills-demonstrated)
-5. [Tools & Libraries Used](#tools-libraries-used)
+5. [Tools & Libraries Used](#tools-and-libraries-used)
 6. [How to Run](#how-to-run-the-project)
 7. [Conclusion](#conclusion)
 
@@ -43,7 +43,7 @@
 - **Python & Libraries**: Proficient use of Python with **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, and **Seaborn** for data manipulation, modeling, and visualization.
 - **Model Evaluation**: Ability in using clustering evaluation metrics like **Silhouette Score**, **Adjusted Rand Index (ARI)**, and centroid analysis to interpret clustering results.
 
-## Tools & Libraries Used
+## Tools and Libraries Used
 
 - Python
 - Pandas
