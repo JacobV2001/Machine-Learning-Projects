@@ -1,6 +1,16 @@
 # Wine Clustering Analysis with K-Means
 
-Welcome to my **Wine Clustering Analysis** project! 🍷✨ In this project, I used machine learning techniques to cluster wines into distinct groups based on various chemical and sensory properties. Using **K-Means clustering**, I explored how unsupervised learning can uncover hidden patterns and relationships in the wine dataset, without relying on predefined labels.
+**Wine Clustering Analysis!** 🍷✨ In this project, I used machine learning techniques to cluster wines into distinct groups based on various chemical and sensory properties. Using **K-Means clustering**, I explored how unsupervised learning can uncover hidden patterns and relationships in the wine dataset, without relying on predefined labels.
+
+## Table of Contents 📑
+
+1. [Key Highlights](#key-highlights)
+2. [Project Objectives](#project-objectives)
+3. [Results](#results)
+4. [Technical Skills Demonstrated](#technical-skills-demonstrated)
+5. [Tools & Libraries Used](#tools-libraries-used)
+6. [How to Run](#how-to-run-the-project)
+7. [Conclusion](#conclusion)
 
 ## Key Highlights
 
