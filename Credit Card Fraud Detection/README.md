@@ -1,5 +1,5 @@
 # Fraud Detection 🚨💳
-In today's society, where everyone makes purcashes and transactions through electronic means, it is increasingly easier for fraudulent activity to go unnoticed. As such, it is imperative that we create methods to **detect** and **prevent** these transactions. This project focuses on using machine learnign techniques to identify fraudulent activities with a high recall score. This approach allows for almost all fraudulent transactions are caught.
+In today's society, where everyone makes purcashes and transactions through electronic means, it is increasingly easier for fraudulent activity to go unnoticed. As such, it is imperative that we create methods to **detect** and **prevent** these transactions. This project focuses on using machine learnign techniques to identify fraudulent activities with a high recall score. This approach allows for almost all fraudulent transactions are caught. This project uses the data from kaggle's [Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset).
 
 ## Table of Contents 📑
 - [Key Highlights](#key-highlights)
